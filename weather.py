@@ -1,4 +1,4 @@
-import optparse, urllib, urllib2, json
+import optparse, urllib2, json
 
 def main():
 	u = optparse.OptionParser()
